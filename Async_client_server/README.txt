@@ -5,7 +5,7 @@ the client-server model works.
 
 NOTE: Make sure you have python installed on your machine
 
-Make sure you run the server before the client
+Run the server before the client
 
 Firstly,To execute these script,open two terminals or tabs,
 run python ASYNC_SERVER.py which is the server,specify the host 
