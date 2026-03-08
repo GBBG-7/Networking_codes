@@ -3,9 +3,7 @@ the client-server model works.
 
 [I used the python asyncronouse module to write this script ]
 
-NOTE: Make sure you have python installed on your machine,if 
-      you don't,you can download python by typing 'python' into the terminal
-      which will redirect you to microsoft store to download python 
+NOTE: Make sure you have python installed on your machine
 
 Make sure you run the server before the client
 
