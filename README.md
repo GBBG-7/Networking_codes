@@ -1,3 +1,3 @@
 # Networking_codes
-### Different ways client-server system works.
+### These folders contains some python script related to networking  
 ### Every folder has a README file
